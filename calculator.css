@@ -1,0 +1,28 @@
+
+
+.display-box {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    border: solid black 0.5px;
+    color: grey;
+    border-radius: 5px;
+    width: 100%;
+    height: 100px;
+}
+
+#enter {
+    background-color: white;
+}
+#c{
+    background-color:lightsteelblue;
+}
+input[type=button] {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:lightblue;
+    color: black;
+    border: solid black 0.5px;
+    height: 100px;
+    width: 200px;
+    border-radius: 5px;
+}
+
